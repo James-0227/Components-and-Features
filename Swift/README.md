@@ -1,3 +1,3 @@
-This folder is for all, mainly Swift component and features.
+This folder is for all, mainly Swift components and features.
 
 NOTE FOR DEVELOPERS: Just for clarification, you can use other coding languages, if any, that are needed to make your feature or component in these folders work properly.
